@@ -1,4 +1,4 @@
-# Tableau-Project
+# FDI-case-study-using-Tableau-Public
 
 FDI-case-study-using-Tableau-Public
 
